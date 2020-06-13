@@ -17,7 +17,7 @@ img: IMG_20180511_205006386.jpg
 
 I was reading blogs and electronic books for a few months, when I decided I would go with my first pedal: a booster!
 
-As a rookie in electronic and soldering, I decided to go with a tutoriel from the Tonefiend blog archive:&nbsp;http://www.seymourduncan.com/tonefiend/tonefiend-diy-club-projects-resources/
+As a rookie in electronic and soldering, I decided to go with a tutoriel from the Tonefiend blog archive: <http://www.seymourduncan.com/tonefiend/tonefiend-diy-club-projects-resources/>
 
 I went with project #3, the booster and buffer.
 
