@@ -22,13 +22,8 @@ I have this old 2003 Fender Strat Highway One HSS, that I'm still using on a reg
 
 It has a pretty cool Fender Humbucker in the bridge, but I never was really happy with the neck and middle pickups. It's the first model of the Highway One series, they changed the pickup in 2006 for theses models.
 
-Before
-
-![guit](/assets/img/IMG_20180216_101321439.jpg)
-
-After
-
-![guit](/assets/img/IMG_20180505_183353756.jpg)
+| Before | After |
+| ![guit](/assets/img/IMG_20180216_101321439.jpg) | ![guit](/assets/img/IMG_20180505_183353756.jpg) |
 
 # The New Pickup Configuration
 
@@ -39,9 +34,7 @@ So here is the new pickup configuration:
 - Middle: Seymour Duncan Duckbuckers
 - Bridge: Fender Atomic Humbucker (a bit rusted, but the sound's still good!)
 
-![guit](/assets/img/IMG_20180216_103418756_BURST000_COVER_TOP.jpg)
-
-![guit](/assets/img/IMG_20180501_154253651.jpg)
+| ![guit](/assets/img/IMG_20180216_103418756_BURST000_COVER_TOP.jpg) | ![guit](/assets/img/IMG_20180501_154253651.jpg) |
 
 # Solo Switch, Single Coil/Humbucker Switches, Master Tone and 500k Pots
 
@@ -57,7 +50,7 @@ Here is my final diagram of what I would do.
 The color code for the Fender Humbucker is different from the Seymour Duncan's.
 Be careful! I found out that the in the original wiring, Fender reverted the Green and Red wire in their original wiring. 
 
-![guit](/assets/img/StratWiringDiagram.png)
+| ![guit](/assets/img/StratWiringDiagram.png) |
 
 I did not paid attention when I soldered the coil switch, and ended up with a phase issue on position 2 (middle + bridge).
 
@@ -65,9 +58,7 @@ Let's get our hands dirty and plug the soldering iron!
 
 I also ordered a new pickguard (a cheap one on Amazon), so it would be easier to solder everything before pulling the old one from the guitar.
 
-![guit](/assets/img/IMG_20180505_094153670.jpg)
-
-![guit](/assets/img/IMG_20180505_102955929.jpg)
+| ![guit](/assets/img/IMG_20180505_094153670.jpg) | ![guit](/assets/img/IMG_20180505_102955929.jpg) |
 
 ![guit](/assets/img/IMG_20180505_103002275_BURST000_COVER_TOP.jpg)
 

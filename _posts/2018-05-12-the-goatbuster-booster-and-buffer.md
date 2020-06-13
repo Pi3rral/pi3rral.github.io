@@ -33,33 +33,14 @@ The buffer is activated by a switch.
 
 I went with a little enclosure, that I paint in red after drilling the holes.
 
-![boost](/assets/img/IMG_20180429_101515354.jpg)
+| ![boost](/assets/img/IMG_20180429_101515354.jpg) | ![boost](/assets/img/IMG_20180429_111555828.jpg) | ![boost](/assets/img/IMG_20180511_192104666.jpg) |
 
-![boost](/assets/img/IMG_20180429_111555828.jpg)
-
-![boost](/assets/img/IMG_20180511_192104666.jpg)
-
-![boost](/assets/img/IMG_20180414_183511451.jpg)
-
-![boost](/assets/img/IMG_20180429_101446206.jpg)
-
-![boost](/assets/img/IMG_20180429_101500657_BURST000_COVER_TOP.jpg)
-
-![boost](/assets/img/IMG_20180429_101504604.jpg)
+| ![boost](/assets/img/IMG_20180414_183511451.jpg) | ![boost](/assets/img/IMG_20180429_101446206.jpg) | ![boost](/assets/img/IMG_20180429_101500657_BURST000_COVER_TOP.jpg) | ![boost](/assets/img/IMG_20180429_101504604.jpg) |
 
 Box it up, then put some stickers (cut and printed by myself too).
 
 
-![boost](/assets/img/IMG_20180511_194555759.jpg)
-
-![boost](/assets/img/IMG_20180511_200017995_BURST000_COVER_TOP.jpg)
-
-![boost](/assets/img/IMG_20180511_200025440.jpg)
-
-![boost](/assets/img/IMG_20180511_201509570.jpg)
-
-![boost](/assets/img/IMG_20180511_202038352_BURST000_COVER_TOP.jpg)
-
-![boost](/assets/img/IMG_20180511_205006386.jpg)
+| ![boost](/assets/img/IMG_20180511_194555759.jpg) | ![boost](/assets/img/IMG_20180511_200017995_BURST000_COVER_TOP.jpg) | ![boost](/assets/img/IMG_20180511_200025440.jpg) |
+| ![boost](/assets/img/IMG_20180511_201509570.jpg) | ![boost](/assets/img/IMG_20180511_202038352_BURST000_COVER_TOP.jpg) | ![boost](/assets/img/IMG_20180511_205006386.jpg) |
 
 Et voilà!
