@@ -12,7 +12,7 @@ img: midi/channel.jpg
 
 # Github Repository
 
-https://github.com/Pi3rral/midi-controller
+<https://github.com/Pi3rral/midi-controller>
 
 # Arduino MIDI Foot Controller
 
