@@ -16,8 +16,6 @@ modified_time: '2018-05-28T18:23:31.164-07:00'
 img: IMG_20180505_180734704.jpg
 ---
 
-![guit](/assets/img/IMG_20180505_180734704.jpg)
-
 # My Old Pal, My 2003 Fender Strat Highway One HSS
 
 I have this old 2003 Fender Strat Highway One HSS, that I'm still using on a regular basis, and still like. It's kind of my first "real" guitar, and I'm still happy with it.
