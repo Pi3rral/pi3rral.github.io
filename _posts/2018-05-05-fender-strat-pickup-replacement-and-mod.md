@@ -24,13 +24,9 @@ I have this old 2003 Fender Strat Highway One HSS, that I'm still using on a reg
 
 It has a pretty cool Fender Humbucker in the bridge, but I never was really happy with the neck and middle pickups. It's the first model of the Highway One series, they changed the pickup in 2006 for theses models.
 
-![guit](/assets/img/IMG_20180216_101321439.jpg)
-
-![guit](/assets/img/IMG_20180216_101321439.jpg)
-
 Before
 
-![guit](/assets/img/IMG_20180505_183353756.jpg)
+![guit](/assets/img/IMG_20180216_101321439.jpg)
 
 After
 
@@ -48,10 +44,6 @@ So here is the new pickup configuration:
 ![guit](/assets/img/IMG_20180216_103418756_BURST000_COVER_TOP.jpg)
 
 ![guit](/assets/img/IMG_20180501_154253651.jpg)
-
-![guit](/assets/img/IMG_20180501_154253651.jpg)
-
-![guit](/assets/img/IMG_20180216_103418756_BURST000_COVER_TOP.jpg)
 
 # Solo Switch, Single Coil/Humbucker Switches, Master Tone and 500k Pots
 
@@ -71,21 +63,13 @@ Be careful! I found out that the in the original wiring, Fender reverted the Gre
 
 I did not paid attention when I soldered the coil switch, and ended up with a phase issue on position 2 (middle + bridge).
 
-![guit](/assets/img/StratWiringDiagram.png)
-
 Let's get our hands dirty and plug the soldering iron!
 
 I also ordered a new pickguard (a cheap one on Amazon), so it would be easier to solder everything before pulling the old one from the guitar.
 
 ![guit](/assets/img/IMG_20180505_094153670.jpg)
 
-![guit](/assets/img/IMG_20180505_094153670.jpg)
-
 ![guit](/assets/img/IMG_20180505_102955929.jpg)
-
-![guit](/assets/img/IMG_20180505_102955929.jpg)
-
-![guit](/assets/img/IMG_20180505_103002275_BURST000_COVER_TOP.jpg)
 
 ![guit](/assets/img/IMG_20180505_103002275_BURST000_COVER_TOP.jpg)
 
@@ -101,12 +85,8 @@ I wired the 2 new pickups, then removed the original pickguard, to get the Fende
 
 ![guit](/assets/img/IMG_20180505_112853923.jpg)
 
-![guit](/assets/img/IMG_20180505_112853923.jpg)
-
 Then put the pickup selector, and do the wiring. That where it became messy, especially because all of the switches. 
 It implies a lot of wires between all of them.
-
-![guit](/assets/img/IMG_20180505_172140625.jpg)
 
 ![guit](/assets/img/IMG_20180505_172140625.jpg)
 
@@ -114,17 +94,11 @@ Then I wired the pickguard to the guitar.<br/>I used heat-shrink tubes to wire t
 
 ![guit](/assets/img/IMG_20180505_173754648.jpg)
 
-![guit](/assets/img/IMG_20180505_173754648.jpg)
-
 Then I screwed the pickguard back to the guitar and put the new pot knobs (metal black ones for the look).
-
-![guit](/assets/img/IMG_20180505_180734704.jpg)
 
 ![guit](/assets/img/IMG_20180505_180734704.jpg)
 
 And.. TADAAA!! Tested it, working perfectly! With great sound.
 The little 59 keeps the nature of the Strat in clean, especially with a single coil split. It also works very well with a good distortion, with a sound more like a Les Paul.<br/>The Duckbuckers is a good choice in the middle. Keep also the Strat spirit.
-
-![guit](/assets/img/IMG_20180505_183353756.jpg)
 
 ![guit](/assets/img/IMG_20180505_183353756.jpg)
