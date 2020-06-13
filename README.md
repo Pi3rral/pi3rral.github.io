@@ -1,1 +1,9 @@
-# Geektarist blog site using Github pages and Jekyll
+# GoatBox
+
+Using Jekyll
+
+Theme: https://github.com/artemsheludko/flexible-jekyll
+
+
+
+
