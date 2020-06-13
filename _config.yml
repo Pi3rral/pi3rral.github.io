@@ -62,12 +62,4 @@ paginate_path: "/page/:num"
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - vendor/themes/
-  - gulpfile.js
-  - package.json
-  - yarn.lock
+  - vendor
